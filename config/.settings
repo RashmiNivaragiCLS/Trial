@@ -1,0 +1,16 @@
+{
+    "projectName": "Trialhead",
+    "username": "rashmi.nivaragi@cloudlendinginc.com",
+    "id": "27930e30-5810-11e8-a30e-d94ea730a4ce",
+    "namespace": "samplename",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Rashmi\\Desktop\\Trialhead_pgms",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
